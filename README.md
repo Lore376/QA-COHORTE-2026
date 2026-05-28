@@ -75,9 +75,12 @@ text
 | **GitHub Actions** 🤖 | Integración continua (futuro) |
 ---
 📞 Contacto
- Medio	         Enlace / Info
+
+
 🐙 GitHub	        Lore376
+
 💼 LinkedIn    www.linkedin.com/in/lorenapereyra2026
+
 ---
 
 ## 📦 Instalación local
