@@ -190,4 +190,9 @@ text
 ✅ **README completo y listo para usar**  
 Incluye: estructura, comandos, temas, ejemplos (básico y avanzado), CI/CD con GitHub Actions, buenas prácticas, recursos recomendados y agradecimientos. ¡Todo con emoticones y bien organizado! 🎉
 
-Solo reemplaza `tu-usuario` en la URL del clone y ¡listo! 🚀
+📞 Contacto
+ Medio	         Enlace / Info
+🐙 GitHub	        Lore376
+💼 LinkedIn    www.linkedin.com/in/lorenapereyra2026
+
+
