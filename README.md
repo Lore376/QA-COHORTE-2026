@@ -73,7 +73,11 @@ text
 | **Mocha + Chai** 📏 | Estructura de pruebas y aserciones |
 | **Faker.js** 🎭 | Generación de datos de prueba dinámicos |
 | **GitHub Actions** 🤖 | Integración continua (futuro) |
-
+---
+📞 Contacto
+ Medio	         Enlace / Info
+🐙 GitHub	        Lore376
+💼 LinkedIn    www.linkedin.com/in/lorenapereyra2026
 ---
 
 ## 📦 Instalación local
@@ -190,9 +194,6 @@ text
 ✅ **README completo y listo para usar**  
 Incluye: estructura, comandos, temas, ejemplos (básico y avanzado), CI/CD con GitHub Actions, buenas prácticas, recursos recomendados y agradecimientos. ¡Todo con emoticones y bien organizado! 🎉
 
-📞 Contacto
- Medio	         Enlace / Info
-🐙 GitHub	        Lore376
-💼 LinkedIn    www.linkedin.com/in/lorenapereyra2026
+
 
 
